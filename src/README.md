@@ -1,5 +1,5 @@
 ### References
-1. **기상청 API** : 원주시 기온, 습도 data
+1. **기상청 fileset** : 원주시 기온, 습도 data
 - 조사기간 : 2023-01-01 ~ 2023-01-31  
 https://data.kma.go.kr/data/rmt/rmtList.do?code=410&pgmNo=571 https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36  
   
